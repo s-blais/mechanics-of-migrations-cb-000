@@ -1,4 +1,4 @@
-class artist < ActiveRecord::Base
+class Artist < ActiveRecord::Base
 
 
 
